@@ -10,3 +10,4 @@ For this project I used the MNIST dataset. You can download it here -- <http://y
 -- Keras
 -- Numpy
 
+
