@@ -1,9 +1,9 @@
 # Handwritten Digit Recognition using Neural Networks
 
-## Dataset
+## Dataset:
 For this project I used the MNIST dataset. You can download it here -- <http://yann.lecun.com/exdb/mnist/>
 
-## Requirements
+## Requirements:
 1. Python 3
 2. Sklearn
 3. Jupyter-Notebook
