@@ -6,8 +6,8 @@ For this project I used the MNIST dataset. You can download it here -- <http://y
 ## Requirements
 1. Python 3
 2. Sklearn
--- Jupyter-Notebook
--- Keras
--- Numpy
+3. Jupyter-Notebook
+4. Keras
+5. Numpy
 
 
